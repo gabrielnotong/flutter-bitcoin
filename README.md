@@ -1,6 +1,8 @@
 # bitcoin
 
-A new Flutter application.
+It contains api call to coinapi.io
+
+how to use custom cards, async http requests, checking on which platform the app is running
 
 ## Getting Started
 
